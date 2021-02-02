@@ -1,0 +1,32 @@
+color:-
+
+black  #010101
+ash    #898989
+yellow #fcdb00
+
+
+
+
+title h1 font size:-
+h1   32
+
+xxl xl lg     md     sm      xs
+32            32     32      24
+
+
+
+
+services h1 p
+
+xxl xl lg     md     sm      xs
+32            32     30      28
+20			  19	 18      18
+
+
+
+
+padding top- bottom:-
+
+xxl xl lg     md     sm      xs
+100           80     60      50
+120 		  100    70      60
